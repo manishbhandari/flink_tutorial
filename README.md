@@ -1,1 +1,2 @@
-# flink_tutorial
+# haseeb_tutorial
+Flink learning exercise
